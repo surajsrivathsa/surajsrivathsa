@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I am Suraj
 
-<!--
-**surajsrivathsa/surajsrivathsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently pursuing master's in Digital Engineering at OVGU and employed as a Data Engineer work-student at Cepres GMBH. Formerly working as Data Engineer at PWC.
+Interested in applying Data Engineering, Management and Machine learning to solve problems
 
 Here are some ideas to get you started:
+- Name: Suraj Bangalore Shashidhar
+- Personal email: suraj110693ag@gmail.com
+- Linkedin: [@suraj-srivathsa](https://www.linkedin.com/in/suraj-srivathsa-27a15a9a/)
+- 🔭 I’m currently working on my Master Thesis - Building Explainable Semantic Search Engine for Comic Books
+- 🌱 I’m currently learning Web Development
+- 🌱 I’m interested in Data Enginerring, Cleaning, Search Engines and Explainability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some Stats
+![Suraj's Github stats](https://github-readme-stats.vercel.app/api?username=surajsrivathsa&show_icons=true)
