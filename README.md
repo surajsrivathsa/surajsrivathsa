@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Suraj
 
 Currently pursuing master's in Digital Engineering at OVGU and employed as a working student Data Engineer at Cepres GMBH. Formerly working as Data Engineer at PWC.
-Interested in applying Data Engineering, Management and Machine learning to solve problems
+Interested in applying Data Engineering, Management and Machine learning to solve business problems
 
 Here are some ideas to get you started:
 - Name: Suraj Bangalore Shashidhar
